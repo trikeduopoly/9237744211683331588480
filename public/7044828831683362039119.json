@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968905293454",
+    "project_id": "winong3-13ec7",
+    "storage_bucket": "winong3-13ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968905293454:android:b95ac386690543f62253df",
+        "android_client_info": {
+          "package_name": "com.PinjolTanpaVerifikasiWajah.PinjamanOnlineTanpaKtpcepatcair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968905293454-alhvecbv7dojpqgm09p7i1bvf36cleec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0clvsPLIIgSEVagSDdK6F4GSpeOywTUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968905293454-alhvecbv7dojpqgm09p7i1bvf36cleec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
